@@ -25,8 +25,6 @@
         <p>email:<input type="text" name="email" size="40"></p>
         <p>password:<input type="text" name="password" size="40"></p>
         <input type="submit">
-
-
     </form>
 
 </body>
